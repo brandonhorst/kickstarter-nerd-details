@@ -1,6 +1,6 @@
 # Lacona Kickstarter Nerd Details
 
-Technical information about developing custom Lacona Commands. For the [Kickstarter Campaign](#). Read at your own risk.
+Technical information about developing custom Lacona Commands. For the [Kickstarter Campaign](https://www.kickstarter.com/projects/2102999333/lacona-natural-language-commands-for-your-mac). Read at your own risk.
 
 Lacona extentions are written in Javascript, which run in a Node.js process alongside the app. They have the full power of Node.js along with their disposal, along with an additional custom Lacona library for interfacing with some Mac-specific features like Spotlight. Commands can also make use of AppleScript to interact with other apps.
 
@@ -160,4 +160,4 @@ To get a bit more technical, you can think of Lacona Commands as closer Formal G
 
 ## Further information
 
-Of course, this is just an introduction. Much more information will be available with the release of the API. If you have further questions, please ask on [Kickstarter](#) or [Twitter](https://twitter.com/lacona).
+Of course, this is just an introduction. Much more information will be available with the release of the API. If you have further questions, please ask on [Kickstarter](https://www.kickstarter.com/projects/2102999333/lacona-natural-language-commands-for-your-mac) or [Twitter](https://twitter.com/lacona).
